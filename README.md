@@ -1,4 +1,4 @@
-### Hi there 👋,I'm onresize.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=267A76&background=33FF3100&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+Welcome+to+my+profile!;I+am+onresize;Web+Developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
